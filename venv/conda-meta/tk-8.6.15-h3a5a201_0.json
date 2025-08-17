@@ -4343,7 +4343,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "tk",
   "sha256": "81575da05bb9e2b796053466a4837591406718e80abd5c2ef1da3a9e0751d3f1",
   "size": 3566165,
   "subdir": "osx-64",

@@ -11,7 +11,6 @@
   ],
   "fn": "ca-certificates-2025.7.15-hecd8cb5_0.conda",
   "legacy_bz2_md5": "6f9db756c5105f55c9e5a35793181034",
-  "legacy_bz2_size": 137725,
   "license": "MPL-2.0",
   "license_family": "Other",
   "link": {
@@ -39,7 +38,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "ca-certificates",
   "sha256": "3f971f82dd2342a6d8370ec059d90d65e216ee3f30fab5749f68536be1ee3a59",
   "size": 130325,
   "subdir": "osx-64",

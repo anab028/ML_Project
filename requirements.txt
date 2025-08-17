@@ -1,4 +1,59 @@
-pandas
-numpy
-seaborn
--e .
+appnope @ file:///opt/concourse/worker/volumes/live/5f13e5b3-5355-4541-5fc3-f08850c73cf9/volume/appnope_1606859448618/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+blinker==1.8.2
+catboost==1.2.8
+click==8.1.8
+contourpy==1.1.1
+cycler==0.12.1
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+entrypoints @ file:///opt/concourse/worker/volumes/live/84dd3e87-c86b-405f-5113-9d1bdbfd10b9/volume/entrypoints_1649926452122/work
+Flask==3.0.3
+fonttools==4.57.0
+graphviz==0.20.3
+gunicorn==23.0.0
+importlib_metadata==8.5.0
+importlib_resources==6.4.5
+ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1620912982711/work/dist/ipykernel-5.5.5-py3-none-any.whl
+ipython @ file:///Users/runner/miniforge3/conda-bld/ipython_1651240645680/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+itsdangerous==2.2.0
+jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1669134318875/work
+Jinja2==3.1.6
+joblib==1.4.2
+jupyter-client @ file:///opt/conda/conda-bld/jupyter_client_1643638337975/work
+jupyter_core @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_80l8bw91xp/croot/jupyter_core_1718818299834/work
+kiwisolver==1.4.7
+MarkupSafe==2.1.5
+matplotlib==3.7.5
+matplotlib-inline @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_9ddl71oqte/croots/recipe/matplotlib-inline_1662014471815/work
+-e git+https://github.com/anab028/ML_Project.git@d4910e5ecc033453296c078bf1cbef5230d862af#egg=ML_PROJECT
+narwhals==1.42.1
+nest-asyncio @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_c44_atq5c1/croot/nest-asyncio_1708532677863/work
+numpy==1.24.4
+packaging==25.0
+pandas==2.0.3
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+pillow==10.4.0
+platformdirs @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_7fs8_2xgrm/croots/recipe/platformdirs_1662711383474/work
+plotly==6.3.0
+prompt-toolkit @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_4d8kk9w3ed/croot/prompt-toolkit_1704404354789/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pyparsing==3.1.4
+python-dateutil @ file:///private/var/folders/c_/qfmhj66j0tn016nkx_th4hxm0000gp/T/abs_efk5_uakg8/croot/python-dateutil_1716495742183/work
+pytz==2025.2
+pyzmq @ file:///Users/runner/miniforge3/conda-bld/pyzmq_1663830595432/work
+scikit-learn==1.3.2
+scipy==1.10.1
+seaborn==0.13.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+threadpoolctl==3.5.0
+tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1666788680357/work
+traitlets @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_f49losghmg/croot/traitlets_1718227069025/work
+tzdata==2025.2
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+Werkzeug==3.0.6
+xgboost==1.6.2
+zipp==3.20.2

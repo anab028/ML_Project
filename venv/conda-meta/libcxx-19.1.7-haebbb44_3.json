@@ -46,7 +46,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "libcxx",
   "sha256": "d4937ea687b9a81d425034979a2da813b85aa5740ed13d15919851b4c3657d9f",
   "size": 339545,
   "subdir": "osx-64",

@@ -689,7 +689,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "xz",
   "sha256": "08852a40efe5d1aaec895e75667d109f712936f70892dd3372581b9eba591002",
   "size": 296228,
   "subdir": "osx-64",
