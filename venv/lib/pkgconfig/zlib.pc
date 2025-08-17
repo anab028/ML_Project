@@ -1,0 +1,13 @@
+prefix=/Users/nur.ranak/ML_PROJECT/venv
+exec_prefix=/Users/nur.ranak/ML_PROJECT/venv
+libdir=/Users/nur.ranak/ML_PROJECT/venv/lib
+sharedlibdir=/Users/nur.ranak/ML_PROJECT/venv/lib
+includedir=/Users/nur.ranak/ML_PROJECT/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

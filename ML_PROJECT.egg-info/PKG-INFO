@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ML_PROJECT
+Version: 0.0.1
+Author: AHANAB HAFIZ ANAB
+Author-email: anabhafiz028@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
